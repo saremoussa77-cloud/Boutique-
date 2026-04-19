@@ -1,6 +1,3 @@
-# Boutique-
-Je vais générer des visuels original adapté à mon style
-
 ```html
 <!DOCTYPE html>
 <html lang="fr">
